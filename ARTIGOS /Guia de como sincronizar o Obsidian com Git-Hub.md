@@ -102,16 +102,24 @@ Vá na aba de plugins da comunidade e procure por **"Git"** geralmente é o prim
 
 Ative ele e procure por **"Custom base path"** , em seguida ponha o caminho relativo da sua pasta + o seu repositório que você acabou de clonar. No meu caso a pasta é **"GIT-HUB"** e meu repositório clonado é **"ESTUDOS"** 
 
+
 ![](screenshot-2025-11-08-135010.jpeg)
+
 Agora na parte **"Automatic"** desative e zere tudo
+
 ![](screenshot-2025-11-08-135829.jpeg)
+
 Agora vamos configurar os atalhos de commit e push. Vá na aba Hotkeys/Atalhos do seu Obsidian e procure por **"Git: Commit all changes"** e defina seu atalho:
 
+
 ![](screenshot-2025-11-08-140225.jpeg)
+
 Agora procure por **"Push"** e defina seu atalho:
 
+
 ![](screenshot-2025-11-08-140346.jpeg)
-Agora feche o Obsidian, entre nele e adicione uma nota na pasta onde está seu repositório, escreva algo e tente da commit e push e veja se deu certo!
+
+gAgora feche o Obsidian, entre nele e adicione uma nota na pasta onde está seu repositório, escreva algo e tente da commit e push e veja se deu certo!
 
 
 ## Agora aproveite!
