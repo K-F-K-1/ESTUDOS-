@@ -8,7 +8,9 @@ Primeiro crie um novo repositório do 0 no Git-Hub, ponha um nome legal nele. N�
 - Add README
 - Add .gitigonore
 - Add license
+
 ![](screenshot-2025-11-08-112851.jpeg)
+
 Deixe exatamente como está na imagem acima.
 
 Você pode se perguntar " Por que isso ?" e eu te digo: e para evitar conflito de históricos diferentes quando você der seu primeiro Push no Obsidian. Se  trata deste erro: 
