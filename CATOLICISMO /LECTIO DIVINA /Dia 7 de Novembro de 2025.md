@@ -11,6 +11,7 @@ As vezes pensamos que se estivéssemos com Cristo em seu tempo aqui na terra, se
 Mas nos lembremos, ao menos nós que professamos a fé no Salvador, São pedro estava no barco junto aos apóstolos, Jesus o convidou a se juntar a Ele e andar sobre as águas. Pedro foi até Cristo, e por instante vacilou na sua fé, sendo socorrido pelo Filho de Deus.
 
 "Homem de pequena fé, por que você duvidou?"
+![](https://i.pinimg.com/1200x/a3/10/50/a310508f2e6555c3f84cee0cbe8db175.jpg)
 
 Nisto reflita, aqueles que estavam com Jesus, mesmo aós virem todas as suas **maravilhas aqui no plano material, com seus próprios olhos** ainda podiam sim não ter fé e desacreditar no Cristo. Afinal, os discípulos de Emaús, também já haviam perdido a fé e por isso não enxergavam o ressuscitado.
 
