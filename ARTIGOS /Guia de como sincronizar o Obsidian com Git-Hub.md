@@ -1,0 +1,1 @@
+Este guia mostra como sincronizar uma pasta do seu Vault do Obsidian com um repositório seu no Git-Hub, de forma que você possa 
