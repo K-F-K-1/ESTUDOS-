@@ -18,4 +18,16 @@ Você pode se perguntar " Por que isso ?" e eu te digo: e para evitar conflito d
 Refusing to merge unrelated histories
 
 ```
-2. 
+## 2. Gerar Token de acesso
+
+Esse passo é importante, atenção. 
+No Git-Hub abra suas configurações. Vá na última opção que existe no menu lateral esquerdo **"Developer settings"**
+
+![](screenshot-2025-11-08-115734.jpeg)
+
+Depois em **"Personal access tokens "** e em seguida em **"Tokens classic"**
+
+![](screenshot-2025-11-08-121335.jpeg)
+
+Agora em **"Generate new token"** e em seguida em **"Gnerate new token (classic)"**
+![](screenshot-2025-11-08-121709.jpeg)
