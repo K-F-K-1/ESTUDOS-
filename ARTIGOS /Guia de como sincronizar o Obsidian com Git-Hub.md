@@ -73,6 +73,8 @@ Exemplo:
 
 ```
 cd GIT-HUB
-git clone https://github.com/SEU_USUARIO/ESTUDOS.git .
+git clone https://github.com/SEU_USUARIO/SEU_REPOSITÓRIO.git .
 
 ```
+
+- Não esqueça do **espaço+ponto final**, sem ele o comando não funciona corretamente 
