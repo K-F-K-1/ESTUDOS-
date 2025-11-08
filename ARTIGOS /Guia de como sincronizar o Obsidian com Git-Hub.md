@@ -32,3 +32,47 @@ Depois em **"Personal access tokens "** e em seguida em **"Tokens classic"**
 Agora em **"Generate new token"** e em seguida em **"Gnerate new token (classic)"**
 
 ![](screenshot-2025-11-08-121709.jpeg)
+
+Agora nas configurações: 
+- Ponha o nome do seu token 
+- Em **"Expiration"** marque **"No expiration"** 
+- Em **"Scopes"** marque toda a caixa **"Repo"**
+- Clique em "Generate token"
+### Atenção
+- Copie e salve seu token **IMEDIATAMENTE**, aós fechar essa pagina, você nunca mais vai ve-lo.
+- Ele começa "com **"ghp_"**
+## 2. Preparando o terminal 
+Agora no seu terminal, vamos garantir que o Git salve suas credenciais pra sempre. Digite no seu terminal isso:
+
+```
+git config --global credential.helper store
+```
+
+Agora configure seu username e email, ambos os mesmos que você usa no Git-Hub
+
+
+```
+git config --global user.name "Seu Nome"
+git config --global user.email "seu@email.com"
+```
+
+Agora no Obsidian crie uma pasta no seu Vault, é dentro dessa pasta que vamos clonar o repositório, no meu caso criei a pasta GIT-HUB no meu Obsidian. Para fazer isso no terminal digite: 
+
+
+```
+cd ~/Documentos/Obsidian
+mkdir -p GIT-HUB
+
+```
+
+Ou crie ela no próprio Obsidian.
+Em seguida, pegue a URL do seu repositório e a use com o comando **"git clone (...) .git"**
+
+Exemplo:
+
+
+```
+cd GIT-HUB
+git clone https://github.com/SEU_USUARIO/ESTUDOS.git .
+
+```
