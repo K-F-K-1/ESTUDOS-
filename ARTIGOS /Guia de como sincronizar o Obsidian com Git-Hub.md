@@ -73,8 +73,47 @@ Exemplo:
 
 ```
 cd GIT-HUB
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITÓRIO.git .
+	git clone https://github.com/SEU_USERNAME/SEU_REPOSITÓRIO.git .
 
 ```
 
-- Não esqueça do espaço+ponto final, sem ele o comando não funciona corret
+- Não esqueça do espaço+ponto final, sem ele o comando não funciona corretamente.
+- Se pedir credenciais, ponha seu username e na senha **PONHA SEU TOKEN** 
+- Verifique se deu certo com:
+
+```
+git remote -v
+```
+
+Deve aparecer algo como 
+
+
+```
+origin  https://github.com/SEU_USUARIO/ESTUDOS.git (fetch)
+origin  https://github.com/SEU_USUARIO/ESTUDOS.git (push)
+
+```
+
+## 3. Configurando o Obsidian Git 
+
+Vá na aba de plugins da comunidade e procure por **"Git"** geralmente é o primeiro que aparece com mais de 1 milhão de dowlnoads 
+
+![](screenshot-2025-11-08-134822.jpeg)
+
+Ative ele e procure por **"Custom base path"** , em seguida ponha o caminho relativo da sua pasta + o seu repositório que você acabou de clonar. No meu caso a pasta é **"GIT-HUB"** e meu repositório clonado é **"ESTUDOS"** 
+
+![](screenshot-2025-11-08-135010.jpeg)
+Agora na parte **"Automatic"** desative e zere tudo
+![](screenshot-2025-11-08-135829.jpeg)
+Agora vamos configurar os atalhos de commit e push. Vá na aba Hotkeys/Atalhos do seu Obsidian e procure por **"Git: Commit all changes"** e defina seu atalho:
+
+![](screenshot-2025-11-08-140225.jpeg)
+Agora procure por **"Push"** e defina seu atalho:
+
+![](screenshot-2025-11-08-140346.jpeg)
+Agora feche o Obsidian, entre nele e adicione uma nota na pasta onde está seu repositório, escreva algo e tente da commit e push e veja se deu certo!
+
+
+## Agora aproveite!
+
+Demorou muito para eu conseguir fazer isso sozinho, meus olhos ficaram verlehos de tanto olhar para a tela do computador e depois de muita tentativa e erro eu finalmente consegui, espero que esse artigo tenha te ajudado a  não passar por isso e te fazer ser mais produtivo, agora mãos a obra!
