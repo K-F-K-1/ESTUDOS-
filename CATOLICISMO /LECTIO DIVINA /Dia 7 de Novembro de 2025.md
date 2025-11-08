@@ -11,7 +11,7 @@ As vezes pensamos que se estivéssemos com Cristo em seu tempo aqui na terra, se
 Mas nos lembremos, ao menos nós que professamos a fé no Salvador, São pedro estava no barco junto aos apóstolos, Jesus o convidou a se juntar a Ele e andar sobre as águas. Pedro foi até Cristo, e por instante vacilou na sua fé, sendo socorrido pelo Filho de Deus.
 
 "Homem de pequena fé, por que você duvidou?"
-![[Pasted image 20251108110107.png]]
+
 Nisto reflita, aqueles que estavam com Jesus, mesmo aós virem todas as suas **maravilhas aqui no plano material, com seus próprios olhos** ainda podiam sim não ter fé e desacreditar no Cristo. Afinal, os discípulos de Emaús, também já haviam perdido a fé e por isso não enxergavam o ressuscitado.
 
 Há uma verdade aqui irmãos.
@@ -25,4 +25,3 @@ Mt 28:20b
 "Eis que estou convosco todos os dias, até o fim dos tempos"
 
 Viva ao Cristo Rei nas alturas e paz na terra pelos homens por ele amado!
-![[Pasted image 20251108110208.png]]
