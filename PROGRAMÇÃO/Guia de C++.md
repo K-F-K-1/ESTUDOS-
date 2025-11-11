@@ -46,3 +46,73 @@ return 0;
 
 
 ```
+
+## Tipos de dados 
+
+Aqui vão alguns tipos de dados fundamentais em C++:
+
+| Tipo   | Bytes | Intervalo            | Uso                           |
+| ------ | ----- | -------------------- | ----------------------------- |
+| char   | 1     | -128 a 127           | Um caractere                  |
+| int    | 4     | -2.1 bi a 2.1 bi     | Números inteiros              |
+| float  | 4     | 1.2×10⁻³⁸ a 3.4×10³⁸ | Decimais com precisão simples |
+| double | 8     | 1.2×10⁻³⁸ a 3.4×10³⁸ | Decimais com dupla precisão   |
+| bool   | 1     | true/false           | Valores lógicos               |
+### char
+
+Este é utilizado para representar valores alfanuméricos unitários de forma que eles ocupem menos espaço, ocupando então apenas 1 byte na memória. Os símbolos compreendidos são os chamados **caracteres**: símbolos, letras e algarismos. todos esses caracteres  são representações de números compreendidos internamente no intervalo de [-128,127]
+- char letra = 'A'
+- char número = '7'
+- char símbolo = '!'
+### string 
+
+Usado para representar textos, a diferença para o char é que ele armazena uma sequência de caracteres, e ocupa um número variado de bytes, enquanto o char só guarda 1 único caractere. 
+- string = " Cale-se, cale-se , cale-se se não você me deixa looouco!"
+- string = "Ninguém tem paciência comigo..."
+- string = "Não contavam com minha astúcia!"
+### int
+Este representa os números compreendidos nos conjunto dos números inteiros (ℤ). O intervalo de números aceitos em compiladores varia de versão para versão mas usualmente o intervalo é de<u> 2.147.483.648</u> até<u> 2.147.483.647</u>. Ele ocupa geralmente 2 bytes de memória.
+- int = -1922
+- int = 44
+- int = 0 
+
+### unsigned / unsigned int
+Este é usado para representar valores compreendidos no conjunto dos números naturais (ℕ). Embora haja diferença entre compiladores , usualmente o intervalo de números aceitos é de 0 até <u>2.147.483.647</u>
+- unsigned = 9
+- unsigned = 1344
+- unsigned = 55
+
+### short / short int 
+Utilizado para representar valores com menos precisão que o **int** ,dependendo do compilador ele ocupa 2 bytes de memória 
+
+### long / long int 
+Dependendo do compilador, ele é utilizado para representar valores com mais precisão do que o int, ele ocupa 4 bytes de memória r. 
+
+### long long / long long int
+Este traz uma precisão maior ainda do que o long dependendo do compilador, ele ocupa 8 bytes de memória. 
+
+### bool
+
+Utilizado para representar valores lógicos que também recebem o nome de valores booleanos em referência a teoria de George Boole, os dois valores possíveis são true (verdadeiro) e false (falso). Estes dados geralmente são usados para representar o resultados de uma expressão condicional.
+- Pepsi > Coca-cola = true
+- 7 > 8 = false 
+- 12 > 9 = true 
+
+### float
+Usado para representar valores que estão em ponto flutuante, apresenta uma precisão simples quando utilizado, ele consome 4 bytes de memória, dependendo do compilador, o intervalo  de representações está compreendido entre  `1.2×10⁻³⁸` até `3.4×10³⁸`
+
+- float = 7.123
+- float = -34.90
+- float = 1.228272272772
+
+### double
+ Este apresenta uma dupla precisão  de representação em comparação ao **float** para números flutuantes,  consome 8 bytes , dependendo do compilador o intervalo compreendido está entre  `1.2×10⁻³⁸` até `3.4×10³⁸`
+
+### long double 
+Este representa valores em ponto flutuante com uma precisão maior ainda do que o double, consome pelo menos 10 bytes.
+
+
+
+
+
+
