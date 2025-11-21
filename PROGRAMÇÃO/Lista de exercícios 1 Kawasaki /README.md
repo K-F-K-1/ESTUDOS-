@@ -1,2 +1,2 @@
-## Lista de exercícios 1 Kawasaki
-Esta é a minha resolução da primeira lista de exercícios da professora Regiane Kawasaki.
+## Artigos 
+Esta pasta é destinada ao compartilhamento de artigos,guias de estudo e materiais didáticos autorais, sinta-se a vontade para compartilhar seu conhecimento conosco! isso foi uma ameaça, você tem poucos segundos para upar um arquivo aqui...
