@@ -9,7 +9,9 @@
 ### Algo shokante 
 - No  meio das minhas pesquisas achei uma parada chamada Web3, basicamente: a internet é classificada em web1 , uma fase de páginas estáticas onde os internautas eram consumidores passivos, web2, a era atual, onde há mais interatividade, porém menos privacidade e nossos dados estão nas mãos malignas das poderosas big techs (ai que medo), a web3 seria uma versão bolada da web2.
 - Ela funcionaria com blockchains , e com tecnologias auxiliares que permitiriam a nós termos controle dos nossos dados e também nos possibilitaria fazer transações e interagir com servidores de maneira descentralizada e sem grandes espionadas das bigtechs. São tecnologias anda muito novinhas mas já estão sendo testadas
+
 ![](https://i.pinimg.com/736x/7a/5e/17/7a5e175819565269d987836181b36336.jpg)
+
 - Shokante não? pois bem, este catioro também achou.
 ---
 ### Enfim, voltando  
