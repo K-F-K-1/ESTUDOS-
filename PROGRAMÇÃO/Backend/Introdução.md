@@ -15,7 +15,7 @@
 - Shokante não? pois bem, este catioro também achou.
 ---
 ### Enfim, voltando  
-- 
+
 ```
    FRONT ----------> DISPOSITIVO DO ÚSUARIO 
    BACK -----------> EXECUTA NOS SERVIDORES 
